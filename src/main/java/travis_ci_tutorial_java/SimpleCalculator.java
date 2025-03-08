@@ -15,5 +15,6 @@ public class SimpleCalculator {
 			throw new ArithmeticException("You can not divide by zero");
 		}
 		return a / b;
+		
 	}
 }
